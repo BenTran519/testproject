@@ -1,0 +1,53 @@
+html 
+{font-family: sans-serif;
+}
+
+#first 
+{color: Orange;
+font-style: italic;
+text-shadow: 2px 2px #000000;
+text-indent: 15px;
+}
+
+#second
+{text-indent: 15px;
+}
+
+img 
+{float: left;}
+
+h1::first-letter 
+{Font-size: 60px;
+}
+
+h1  
+{Font-size: 36px;
+}
+
+
+h2   
+{Font-size: 32px;
+}
+
+h3   
+{Font-size: 24px;
+}
+
+
+a:link
+{color: orange;
+font-style: bold;
+}
+
+a:hover 
+{color: green;
+}
+
+li
+{line-height:1.5;
+}
+
+
+footer 
+{font-size: 12px;
+text-align: center;}
